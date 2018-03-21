@@ -9,8 +9,11 @@ border-bottom: 5px solid #E3E3E3;
   height: 200px;
   width: 200px;
   background-color: #2C672B;
+  transition: 1s;
 
   &:hover{
     background-color: #CFEDE5;
+    transform: rotateX(360deg);
+    transition: 2s;
   }
 }
