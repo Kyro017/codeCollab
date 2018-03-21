@@ -7,7 +7,7 @@
 		"uuidString": "97283D7A-53BB-4D8D-80FE-C4E0F6918AA8"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26261",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -67,9 +67,9 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/stylesheets\/css\/core-min.css",
-		"oF": 2,
-		"oS": 3,
+		"oAP": "\/stylesheets\/sass\/core.css",
+		"oF": 0,
+		"oS": 0,
 		"uL": 1
 		}
 	},
@@ -89,7 +89,6 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
-	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
