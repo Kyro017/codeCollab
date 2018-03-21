@@ -2,5 +2,15 @@
 height: 500px;
 width: 100vw;
 background-color: #98D649;
+border-bottom: 5px solid #E3E3E3;
+}
 
+.flipOut{
+  height: 200px;
+  width: 200px;
+  background-color: #2C672B;
+
+  &:hover{
+    background-color: #CFEDE5;
+  }
 }
